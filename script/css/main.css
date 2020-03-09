@@ -1,6 +1,9 @@
 body {
-	background-color:black;
+    background-color: white;
 }
-body p {
-	color:red;
+
+div {
+    text-align: center;
+    display: block;
+    border-color: black;
 }
