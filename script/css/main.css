@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: white ;
 }
 
 div {
@@ -7,3 +7,5 @@ div {
     display: block;
     border-color: black;
 }
+div[data-columns=2] { width: 480px; }
+div[data-columns=3] { width: 720px; }
